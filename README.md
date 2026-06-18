@@ -1,4 +1,5 @@
 ☕ Coffee Sales Analysis 
+
 📌 Project Overview
 
 This project analyzes coffee sales data using SQL.
