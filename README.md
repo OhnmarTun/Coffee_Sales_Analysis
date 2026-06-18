@@ -26,9 +26,12 @@ The dataset includes coffee sales transactions with details such as:
 - Top 10 best selling products
 - Top 5 highest revenue products
 - The busiest hours of the day
+- Morning, Afternoon, Evening sales compare
+- Monthly sales trends
 
 📈 Key Insights
 - Coffe generates higher revenue
 - Brewed Chai tea product type sells the most units
-- 8-10 Am show the highest revenue
+- Barista Esperesso & Brewed Chai tea generate the highest revenue
+- Morning hours (8-10AM) show the highest customer activities across most days
 
